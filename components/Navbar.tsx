@@ -31,7 +31,7 @@ const Navbar = () => {
         e.currentTarget.classList.add("active");
     }
 
-    function handleClick (e) {
+    function handleClick (e: any) {
         if(e.target.contains(ref.current)) {
             setShowMenu(false);
         }
