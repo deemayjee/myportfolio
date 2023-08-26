@@ -9,7 +9,7 @@ const Contact = () => {
         <p className="font-titleFont text-lg text-textGreen font-semibold flex items-center tracking-wide">
             04. Want to connect?
         </p>
-        <h2 className="font-titleFont text-5xl font-semibold">
+        <h2 className="font-titleFont text-5xl font-semibold sm:text-center">
             Feel Free to Reach Out!
         </h2>
         <p className="max-w-[600px] text-center text-textDark">
