@@ -31,11 +31,10 @@ const Archive = () => {
               link="https://www.stefaniegruendl.com/en/"
             />
              <ArchiveCard 
-              title="Daily To Do App"
-              description="Your ultimate task manager. Simplify your life with intuitive to-do lists, deadlines, and reminders. 
-              Effortlessly prioritize tasks, collaborate with teams, and track progress."
-              listItem={ ["Html", "Css", "JavaScript"] }
-              link="https://deemayjee.github.io/todo-app/"
+              title="Share Me"
+              description="A visual discovery app like Pinterest. Explore and save inspiring ideas, images, and recipes from around the web. Organize and share your collections effortlessly."
+              listItem={ ["React", "JavaScript", "Express.js"] }
+              link="https://pintree.netlify.app/"
             />
              <ArchiveCard 
               title="Palmfront"
